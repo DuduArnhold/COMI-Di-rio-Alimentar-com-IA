@@ -1,0 +1,13 @@
+{
+  "name": "Comi — Diário alimentar",
+  "short_name": "Comi",
+  "description": "Diário alimentar simples e conversacional.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f7f2",
+  "theme_color": "#217a46",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
